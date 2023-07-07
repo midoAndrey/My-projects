@@ -1,1 +1,2 @@
-# ![rim](https://github.com/midoAndrey/test/assets/93534238/e4a8610e-236a-4276-b24d-5b387c927444)
+ #### 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg)  ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
